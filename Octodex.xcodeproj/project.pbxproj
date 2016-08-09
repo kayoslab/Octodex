@@ -274,6 +274,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = Octodex/Info.plist;
 				PRODUCT_BUNDLE_IDENTIFIER = eu.kayos.Octodex;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -285,6 +286,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = Octodex/Info.plist;
 				PRODUCT_BUNDLE_IDENTIFIER = eu.kayos.Octodex;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -311,6 +313,7 @@
 				60BF65451D1A70FF00C0A62B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		60BF65471D1A70FF00C0A62B /* Build configuration list for PBXNativeTarget "Octodex" */ = {
 			isa = XCConfigurationList;
@@ -319,6 +322,7 @@
 				60BF65491D1A70FF00C0A62B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -1,4 +1,381 @@
 {
+  "stickers" : [
+    {
+      "filename" : "hanukkat.sticker"
+    },
+    {
+      "filename" : "welcometocat.sticker"
+    },
+    {
+      "filename" : "filmtocat.sticker"
+    },
+    {
+      "filename" : "privateinvestocat.sticker"
+    },
+    {
+      "filename" : "gracehoppertocat.sticker"
+    },
+    {
+      "filename" : "jetpacktocat.sticker"
+    },
+    {
+      "filename" : "minertocat.sticker"
+    },
+    {
+      "filename" : "mountietocat.sticker"
+    },
+    {
+      "filename" : "saketocat.sticker"
+    },
+    {
+      "filename" : "luchadortocat.sticker"
+    },
+    {
+      "filename" : "saritocat.sticker"
+    },
+    {
+      "filename" : "topguntocat.sticker"
+    },
+    {
+      "filename" : "Carlostocat.sticker"
+    },
+    {
+      "filename" : "Grinchtocat.sticker"
+    },
+    {
+      "filename" : "Maxtocat.sticker"
+    },
+    {
+      "filename" : "yaktocat.sticker"
+    },
+    {
+      "filename" : "steroidtocat.sticker"
+    },
+    {
+      "filename" : "Mummytocat.sticker"
+    },
+    {
+      "filename" : "labtocat.sticker"
+    },
+    {
+      "filename" : "dunetocat.sticker"
+    },
+    {
+      "filename" : "octoliberty.sticker"
+    },
+    {
+      "filename" : "femalecodertocat.sticker"
+    },
+    {
+      "filename" : "Daftpunktocat-Thomas.sticker"
+    },
+    {
+      "filename" : "Daftpunktocat-Guy.sticker"
+    },
+    {
+      "filename" : "foundingfather_v2.sticker"
+    },
+    {
+      "filename" : "poptocat_v2.sticker"
+    },
+    {
+      "filename" : "Mardigrastocat.sticker"
+    },
+    {
+      "filename" : "kimonotocat.sticker"
+    },
+    {
+      "filename" : "Professortocat_v2.sticker"
+    },
+    {
+      "filename" : "goretocat.sticker"
+    },
+    {
+      "filename" : "FIRSTocat.sticker"
+    },
+    {
+      "filename" : "motherhubbertocat.sticker"
+    },
+    {
+      "filename" : "skitchtocat.sticker"
+    },
+    {
+      "filename" : "gangnamtocat.sticker"
+    },
+    {
+      "filename" : "droctocat.sticker"
+    },
+    {
+      "filename" : "spidertocat.sticker"
+    },
+    {
+      "filename" : "megacat-2.sticker"
+    },
+    {
+      "filename" : "dodgetocat_v2.sticker"
+    },
+    {
+      "filename" : "stormtroopocat.sticker"
+    },
+    {
+      "filename" : "pusheencat.sticker"
+    },
+    {
+      "filename" : "deckfailcat.sticker"
+    },
+    {
+      "filename" : "murakamicat.sticker"
+    },
+    {
+      "filename" : "homercat.sticker"
+    },
+    {
+      "filename" : "minion.sticker"
+    },
+    {
+      "filename" : "droidtocat.sticker"
+    },
+    {
+      "filename" : "octofez.sticker"
+    },
+    {
+      "filename" : "heisencat.sticker"
+    },
+    {
+      "filename" : "red-polo.sticker"
+    },
+    {
+      "filename" : "twenty-percent-cooler-octocat.sticker"
+    },
+    {
+      "filename" : "momtocat.sticker"
+    },
+    {
+      "filename" : "front-end-conftocat.sticker"
+    },
+    {
+      "filename" : "snowoctocat.sticker"
+    },
+    {
+      "filename" : "electrocat.sticker"
+    },
+    {
+      "filename" : "codercat.sticker"
+    },
+    {
+      "filename" : "strongbadtocat.sticker"
+    },
+    {
+      "filename" : "adventure-cat.sticker"
+    },
+    {
+      "filename" : "doctocat-brown.sticker"
+    },
+    {
+      "filename" : "dojocat.sticker"
+    },
+    {
+      "filename" : "defunktocat.sticker"
+    },
+    {
+      "filename" : "herme-t-crabb.sticker"
+    },
+    {
+      "filename" : "saint-nicktocat.sticker"
+    },
+    {
+      "filename" : "orderedlistocat.sticker"
+    },
+    {
+      "filename" : "thanktocat.sticker"
+    },
+    {
+      "filename" : "megacat.sticker"
+    },
+    {
+      "filename" : "linktocat.sticker"
+    },
+    {
+      "filename" : "plumber.sticker"
+    },
+    {
+      "filename" : "octotron.sticker"
+    },
+    {
+      "filename" : "baracktocat.sticker"
+    },
+    {
+      "filename" : "octocat-de-los-muertos.sticker"
+    },
+    {
+      "filename" : "grim-repo.sticker"
+    },
+    {
+      "filename" : "father_timeout.sticker"
+    },
+    {
+      "filename" : "waldocat.sticker"
+    },
+    {
+      "filename" : "hipster-partycat.sticker"
+    },
+    {
+      "filename" : "riddlocat.sticker"
+    },
+    {
+      "filename" : "visionary.sticker"
+    },
+    {
+      "filename" : "oktobercat.sticker"
+    },
+    {
+      "filename" : "shoptocat.sticker"
+    },
+    {
+      "filename" : "nyantocat.sticker"
+    },
+    {
+      "filename" : "octdrey-catburn.sticker"
+    },
+    {
+      "filename" : "spectrocat.sticker"
+    },
+    {
+      "filename" : "bear-cavalry.sticker"
+    },
+    {
+      "filename" : "andycat.sticker"
+    },
+    {
+      "filename" : "notocat.sticker"
+    },
+    {
+      "filename" : "dodgetocat.sticker"
+    },
+    {
+      "filename" : "cloud.sticker"
+    },
+    {
+      "filename" : "scarletteocat.sticker"
+    },
+    {
+      "filename" : "poptocat.sticker"
+    },
+    {
+      "filename" : "jenktocat.sticker"
+    },
+    {
+      "filename" : "xtocat.sticker"
+    },
+    {
+      "filename" : "chellocat.sticker"
+    },
+    {
+      "filename" : "cherryontop-o-cat.sticker"
+    },
+    {
+      "filename" : "supportcat.sticker"
+    },
+    {
+      "filename" : "collabocats.sticker"
+    },
+    {
+      "filename" : "constructocat2.sticker"
+    },
+    {
+      "filename" : "total-eclipse-of-the-octocat.sticker"
+    },
+    {
+      "filename" : "pacman-ghosts.sticker"
+    },
+    {
+      "filename" : "okal-eltocat.sticker"
+    },
+    {
+      "filename" : "octoclark-kentocat.sticker"
+    },
+    {
+      "filename" : "agendacat.sticker"
+    },
+    {
+      "filename" : "ironcat.sticker"
+    },
+    {
+      "filename" : "inspectocat.sticker"
+    },
+    {
+      "filename" : "jean-luc-picat.sticker"
+    },
+    {
+      "filename" : "spocktocat.sticker"
+    },
+    {
+      "filename" : "wilson.sticker"
+    },
+    {
+      "filename" : "swagtocat.sticker"
+    },
+    {
+      "filename" : "drunktocat.sticker"
+    },
+    {
+      "filename" : "hubot.sticker"
+    },
+    {
+      "filename" : "monroe.sticker"
+    },
+    {
+      "filename" : "trekkie.sticker"
+    },
+    {
+      "filename" : "octonaut.sticker"
+    },
+    {
+      "filename" : "bouncercat.sticker"
+    },
+    {
+      "filename" : "founding-father.sticker"
+    },
+    {
+      "filename" : "pythocat.sticker"
+    },
+    {
+      "filename" : "drupalcat.sticker"
+    },
+    {
+      "filename" : "socialite.sticker"
+    },
+    {
+      "filename" : "setuptocat.sticker"
+    },
+    {
+      "filename" : "repo.sticker"
+    },
+    {
+      "filename" : "forktocat.sticker"
+    },
+    {
+      "filename" : "benevocats.sticker"
+    },
+    {
+      "filename" : "scottocat.sticker"
+    },
+    {
+      "filename" : "puppeteer.sticker"
+    },
+    {
+      "filename" : "octobiwan.sticker"
+    },
+    {
+      "filename" : "class-act.sticker"
+    },
+    {
+      "filename" : "original.sticker"
+    },
+    {
+      "filename" : "aidorucat.sticker"
+    }
+  ],
   "info" : {
     "version" : 1,
     "author" : "xcode"
